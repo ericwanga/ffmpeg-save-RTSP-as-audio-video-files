@@ -9,9 +9,9 @@ Download and install FFmpeg from https://www.ffmpeg.org/download.html#build-wind
 
 If you don't have Admin access to your laptop, or it is a work laptop and you don't have elevation, add to Path of *User variables*, no need to add to Path of *System variables*. For example, if FFmpeg is installed to `C:\ffmpeg`, then add `C:\ffmpeg\bin` to Path of *User variables*:
 
-![image-20220615103419849](C:\Users\erwang\Documents\EricWang\U\phd\work4_openvino\recordings\ffmpeg-save-RTSP-as-audio-video-files\img\image-20220615103419849.png)
+![image-20220615103419849](https://github.com/ericwanga/ffmpeg-save-RTSP-as-audio-video-files/blob/main/img/image-20220615103419849.png?raw=true)
 
-![image-20220615103506608](C:\Users\erwang\Documents\EricWang\U\phd\work4_openvino\recordings\ffmpeg-save-RTSP-as-audio-video-files\img\image-20220615103506608.png)
+![image-20220615103506608](https://github.com/ericwanga/ffmpeg-save-RTSP-as-audio-video-files/blob/main/img/image-20220615103506608.png?raw=true)
 
 # The scripts
 
@@ -28,5 +28,5 @@ So far, the scripts do not support arguments options. Some key options are hard-
 
 Then start cmd as normal, no need to *Run as administrator*, and run the script of your choice: audio only, video only, or all:
 
-![image-20220615103713800](C:\Users\erwang\Documents\EricWang\U\phd\work4_openvino\recordings\ffmpeg-save-RTSP-as-audio-video-files\img\image-20220615103713800.png)
+![image-20220615103713800](https://github.com/ericwanga/ffmpeg-save-RTSP-as-audio-video-files/blob/main/img/image-20220615103713800.png?raw=true)
 
