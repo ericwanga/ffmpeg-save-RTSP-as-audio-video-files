@@ -17,4 +17,4 @@ mkdir %SUBFILENAME%
 set VID_SOURCE=rtsp://192.168.0.80:9000/live
 
 :: capture frames every 4 seconds
-ffmpeg -rtsp_transport tcp -i %VID_SOURCE% -r 0.25 -s 480x480 -f image2 %SUBFILENAME%\pic_%%04d.jpeg
+ffmpeg -rtsp_transport tcp -i %VID_SOURCE% -r 0.5 -s 480x480 -f image2 %SUBFILENAME%\pic_%%04d.jpeg
